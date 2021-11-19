@@ -1,0 +1,8 @@
+h1 {
+  color: aquamarine;  
+}
+h2 {
+  border: 2px dotted darkblue;
+  padding: 10px; 
+  border-radius: 25px; 
+}
